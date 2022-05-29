@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+p {
+    color: red;
+}
+h1 {
+     color: rgb(14, 255, 34);
+     box-shadow: 10px 10px 10px 10px;
+     background-color: rgb(49, 2, 219);
+}
+li {
+    color: olivedrab;
+}
+h2 {
+    color: steelblue;
+}
+img {
+    border: black solid;
+}
+
+footer p {
+    color:rgb(0, 0, 0) ;
+}
